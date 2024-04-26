@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Runze Yu"
+title                    : "te Title"
 title_separator          : "-"
 name                     : &name "Peter Yu"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Peter Yu"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "Advance and happiness"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Xidian University"
   uri              : # URL
