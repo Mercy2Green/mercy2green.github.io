@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Peter's Game Log"
 author_profile: true
 redirect_from: 
   - /about/
