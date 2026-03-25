@@ -9,26 +9,23 @@ redirect_from:
 
 <div class="game-home">
   <div class="game-banner">
-    <h2>Player One: Peter Yu</h2>
-    <p>A RPG focused corner of my personal site, centered on weighty combat, strong world-building, and story-driven adventures.</p>
-  </div>
-
-  <h3 class="section-title">Personal Info</h3>
-  <div class="game-grid">
-    <article class="game-card">
-      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9mxy.webp" alt="Gaming setup mood image"> -->
-      <div class="game-content">
-        <h4 class="game-name">Peter Yu</h4>
-        <p class="game-meta">Research by day, games by night. Main platform: PC. Preferred experience: action combat + narrative RPG progression.</p>
-        <div class="tag-list">
-          <span class="tag">RPG</span>
-          <span class="tag">ACT</span>
-          <span class="tag">Roguelike</span>
-          <span class="tag">Indie</span>
-          <span class="tag">PC</span>
+    <h3 class="section-title">Personal Info</h3>
+    <div class="game-grid">
+      <article class="game-card">
+        <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9mxy.webp" alt="Gaming setup mood image"> -->
+        <div class="game-content">
+          <h4 class="game-name">Peter Yu</h4>
+          <p class="game-meta">Research by day, games by night. Main platform: PC. Preferred experience: action combat + narrative RPG progression.</p>
+          <div class="tag-list">
+            <span class="tag">RPG</span>
+            <span class="tag">ACT</span>
+            <span class="tag">Roguelike</span>
+            <span class="tag">Indie</span>
+            <span class="tag">PC</span>
+          </div>
         </div>
-      </div>
-    </article>
+      </article>
+    </div>
   </div>
 
   <h3 class="section-title">Recently Playing</h3>
