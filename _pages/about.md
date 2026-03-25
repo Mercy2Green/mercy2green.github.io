@@ -10,7 +10,7 @@ redirect_from:
 <div class="game-home">
   <div class="game-banner">
     <h2>Player One: Peter Yu</h2>
-    <p>A dark, game-focused corner of my personal site. I track what I am playing, what I beat, and what I strongly recommend.</p>
+    <p>A dark action-RPG focused corner of my personal site, centered on weighty combat, strong world-building, and story-driven adventures.</p>
   </div>
 
   <h3 class="section-title">Personal Info</h3>
@@ -19,13 +19,12 @@ redirect_from:
       <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9mxy.webp" alt="Gaming setup mood image"> -->
       <div class="game-content">
         <h4 class="game-name">Peter Yu</h4>
-        <p class="game-meta">Research by day, games by night. Main platform: PC + Switch.</p>
+        <p class="game-meta">Research by day, games by night. Main platform: PC. Preferred experience: action combat + narrative RPG progression.</p>
         <div class="tag-list">
           <span class="tag">RPG</span>
           <span class="tag">ACT</span>
           <span class="tag">Roguelike</span>
           <span class="tag">Indie</span>
-          <span class="tag">Switch</span>
           <span class="tag">PC</span>
         </div>
       </div>
@@ -35,85 +34,49 @@ redirect_from:
   <h3 class="section-title">Recently Playing</h3>
   <div class="game-grid">
     <article class="game-card">
-      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8f1g.webp" alt="Black Myth Wukong cover art"> -->
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2h3q.webp" alt="Final Fantasy VII Remake cover art"> -->
       <div class="game-content">
-        <h4 class="game-name">Black Myth: Wukong</h4>
+        <h4 class="game-name">Final Fantasy VII Remake</h4>
         <p class="game-meta">Status: Recently Playing</p>
-        <div class="tag-list"><span class="tag">ACT</span><span class="tag">RPG</span><span class="tag">PC</span></div>
-        <p class="game-review">Tight combat rhythm and cinematic boss battles. Every chapter feels handcrafted with strong visual identity.</p>
-        <p class="rating">Rating: ★★★★☆ (4.5/5)</p>
+        <div class="tag-list"><span class="tag">RPG</span><span class="tag">ACT</span><span class="tag">PC</span></div>
+        <p class="game-review">Hybrid real-time and command combat feels strategic and stylish. Character writing and soundtrack are top-tier.</p>
+        <p class="rating">Rating: ★★★★★ (4.9/5)</p>
         <div class="link-row">
-          <a class="link-pill" href="https://www.heishenhua.com/">Official</a>
-          <a class="link-pill" href="https://store.steampowered.com/app/2358720/Black_Myth_Wukong/">Steam</a>
-          <a class="link-pill" href="https://www.metacritic.com/game/black-myth-wukong/">Metacritic</a>
+          <a class="link-pill" href="https://ffvii-remake-intergrade.square-enix-games.com/en-us/">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/">Metacritic</a>
         </div>
       </div>
     </article>
 
     <article class="game-card">
-      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6f9j.webp" alt="Hades II cover art"> -->
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co70c4.webp" alt="Nuclear Option cover art"> -->
       <div class="game-content">
-        <h4 class="game-name">Hades II</h4>
+        <h4 class="game-name">Nuclear Option</h4>
         <p class="game-meta">Status: Recently Playing</p>
-        <div class="tag-list"><span class="tag">Roguelike</span><span class="tag">Indie</span><span class="tag">PC</span></div>
-        <p class="game-review">Fast loops, brilliant character writing, and endlessly replayable builds. A near-perfect upgrade over the first game.</p>
-        <p class="rating">Rating: ★★★★★ (5/5)</p>
+        <div class="tag-list"><span class="tag">ACT</span><span class="tag">Indie</span><span class="tag">PC</span></div>
+        <p class="game-review">Arcade-style flight combat with modern controls and strong mission pacing. Easy to pick up, hard to optimize.</p>
+        <p class="rating">Rating: ★★★★☆ (4.3/5)</p>
         <div class="link-row">
-          <a class="link-pill" href="https://www.supergiantgames.com/games/hades-ii/">Official</a>
-          <a class="link-pill" href="https://store.steampowered.com/app/1145350/Hades_II/">Steam</a>
-          <a class="link-pill" href="https://www.metacritic.com/game/hades-ii/">Metacritic</a>
+          <a class="link-pill" href="https://store.steampowered.com/app/2168680/Nuclear_Option/">Steam</a>
+          <a class="link-pill" href="https://metacritic.com/">Metacritic</a>
+          <a class="link-pill" href="https://itch.io/">itch</a>
         </div>
       </div>
     </article>
 
     <article class="game-card">
-      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6wpu.webp" alt="Balatro cover art"> -->
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7f4h.webp" alt="Dragon's Dogma 2 cover art"> -->
       <div class="game-content">
-        <h4 class="game-name">Balatro</h4>
+        <h4 class="game-name">Dragon's Dogma 2</h4>
         <p class="game-meta">Status: Recently Playing</p>
-        <div class="tag-list"><span class="tag">Roguelike</span><span class="tag">Indie</span><span class="tag">Switch</span><span class="tag">PC</span></div>
-        <p class="game-review">Simple to start, impossible to put down. Every run creates surprising card synergies and risky decisions.</p>
-        <p class="rating">Rating: ★★★★☆ (4.7/5)</p>
+        <div class="tag-list"><span class="tag">RPG</span><span class="tag">ACT</span><span class="tag">PC</span></div>
+        <p class="game-review">Emergent encounters, excellent class fantasy, and satisfying monster climbing combat make each journey memorable.</p>
+        <p class="rating">Rating: ★★★★☆ (4.6/5)</p>
         <div class="link-row">
-          <a class="link-pill" href="https://www.playbalatro.com/">Official</a>
-          <a class="link-pill" href="https://store.steampowered.com/app/2379780/Balatro/">Steam</a>
-          <a class="link-pill" href="https://www.metacritic.com/game/balatro/">Metacritic</a>
-          <a class="link-pill" href="https://localthunk.itch.io/">itch</a>
-        </div>
-      </div>
-    </article>
-  </div>
-
-  <h3 class="section-title">Completed</h3>
-  <div class="game-grid">
-    <article class="game-card">
-      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.webp" alt="Sekiro cover art"> -->
-      <div class="game-content">
-        <h4 class="game-name">Sekiro: Shadows Die Twice</h4>
-        <p class="game-meta">Status: Completed</p>
-        <div class="tag-list"><span class="tag">ACT</span><span class="tag">RPG</span><span class="tag">PC</span></div>
-        <p class="game-review">Precise parry timing turns every fight into a duel. Tough, fair, and deeply satisfying once mastered.</p>
-        <p class="rating">Rating: ★★★★★ (5/5)</p>
-        <div class="link-row">
-          <a class="link-pill" href="https://www.sekirothegame.com/">Official</a>
-          <a class="link-pill" href="https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice/">Steam</a>
-          <a class="link-pill" href="https://www.metacritic.com/game/sekiro-shadows-die-twice/">Metacritic</a>
-        </div>
-      </div>
-    </article>
-
-    <article class="game-card">
-      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.webp" alt="Disco Elysium cover art"> -->
-      <div class="game-content">
-        <h4 class="game-name">Disco Elysium</h4>
-        <p class="game-meta">Status: Completed</p>
-        <div class="tag-list"><span class="tag">RPG</span><span class="tag">Indie</span><span class="tag">PC</span></div>
-        <p class="game-review">One of the best-written RPGs ever made. Dialogue, worldbuilding, and role-playing depth are exceptional.</p>
-        <p class="rating">Rating: ★★★★★ (5/5)</p>
-        <div class="link-row">
-          <a class="link-pill" href="https://discoelysium.com/">Official</a>
-          <a class="link-pill" href="https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/">Steam</a>
-          <a class="link-pill" href="https://www.metacritic.com/game/disco-elysium-the-final-cut/">Metacritic</a>
+          <a class="link-pill" href="https://www.dragonsdogma.com/2/en-us/">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/app/2054970/Dragons_Dogma_2/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/dragons-dogma-2/">Metacritic</a>
         </div>
       </div>
     </article>
@@ -122,48 +85,99 @@ redirect_from:
   <h3 class="section-title">Highly Recommended</h3>
   <div class="game-grid">
     <article class="game-card">
-      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2p2x.webp" alt="Baldur's Gate 3 cover art"> -->
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2vn8.webp" alt="Assassin's Creed trilogy cover art"> -->
       <div class="game-content">
-        <h4 class="game-name">Baldur's Gate 3</h4>
+        <h4 class="game-name">Assassin's Creed Trilogy (Ezio Collection)</h4>
         <p class="game-meta">Status: Recommended</p>
-        <div class="tag-list"><span class="tag">RPG</span><span class="tag">PC</span></div>
-        <p class="game-review">A benchmark for modern CRPG design with rich choices, deep systems, and memorable companions.</p>
+        <div class="tag-list"><span class="tag">ACT</span><span class="tag">RPG</span><span class="tag">PC</span></div>
+        <p class="game-review">Parkour, stealth, and historical cities still hold up. The trilogy is a strong blend of narrative and action pacing.</p>
+        <p class="rating">Rating: ★★★★☆ (4.5/5)</p>
+        <div class="link-row">
+          <a class="link-pill" href="https://www.ubisoft.com/en-us/game/assassins-creed/the-ezio-collection">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/sub/75749/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/">Metacritic</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="game-card">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.webp" alt="The Witcher trilogy cover art"> -->
+      <div class="game-content">
+        <h4 class="game-name">The Witcher Trilogy</h4>
+        <p class="game-meta">Status: Recommended</p>
+        <div class="tag-list"><span class="tag">RPG</span><span class="tag">ACT</span><span class="tag">PC</span></div>
+        <p class="game-review">A rare series with steady evolution in storytelling and quest design. Witcher 3 remains an all-time benchmark.</p>
         <p class="rating">Rating: ★★★★★ (5/5)</p>
         <div class="link-row">
-          <a class="link-pill" href="https://baldursgate3.game/">Official</a>
-          <a class="link-pill" href="https://store.steampowered.com/app/1086940/Baldurs_Gate_3/">Steam</a>
-          <a class="link-pill" href="https://www.metacritic.com/game/baldurs-gate-3/">Metacritic</a>
+          <a class="link-pill" href="https://www.thewitcher.com/">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/sub/124923/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/">Metacritic</a>
         </div>
       </div>
     </article>
 
     <article class="game-card">
-      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.webp" alt="Hollow Knight cover art"> -->
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3bxn.webp" alt="Mass Effect trilogy cover art"> -->
       <div class="game-content">
-        <h4 class="game-name">Hollow Knight</h4>
+        <h4 class="game-name">Mass Effect Trilogy (Legendary Edition)</h4>
         <p class="game-meta">Status: Recommended</p>
-        <div class="tag-list"><span class="tag">ACT</span><span class="tag">Indie</span><span class="tag">Switch</span><span class="tag">PC</span></div>
-        <p class="game-review">Elegant level design and atmospheric art direction. Exploration and challenge are balanced beautifully.</p>
-        <p class="rating">Rating: ★★★★☆ (4.8/5)</p>
+        <div class="tag-list"><span class="tag">RPG</span><span class="tag">ACT</span><span class="tag">PC</span></div>
+        <p class="game-review">Outstanding squad storytelling, branching choices, and space-opera atmosphere. Legendary Edition is the best entry point.</p>
+        <p class="rating">Rating: ★★★★★ (4.8/5)</p>
         <div class="link-row">
-          <a class="link-pill" href="https://www.hollowknight.com/">Official</a>
-          <a class="link-pill" href="https://store.steampowered.com/app/367520/Hollow_Knight/">Steam</a>
-          <a class="link-pill" href="https://www.metacritic.com/game/hollow-knight/">Metacritic</a>
+          <a class="link-pill" href="https://www.ea.com/games/mass-effect/mass-effect-legendary-edition">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/mass-effect-legendary-edition/">Metacritic</a>
         </div>
       </div>
     </article>
 
     <article class="game-card">
-      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.webp" alt="Open source game tools cover art"> -->
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1r8i.webp" alt="Undertale cover art"> -->
       <div class="game-content">
-        <h4 class="game-name">Open Source Game Tools</h4>
+        <h4 class="game-name">Undertale</h4>
         <p class="game-meta">Status: Recommended</p>
-        <div class="tag-list"><span class="tag">Indie</span><span class="tag">PC</span><span class="tag">GitHub</span></div>
-        <p class="game-review">I also enjoy browsing open-source game projects and tools to learn design and system ideas from the community.</p>
-        <p class="rating">Rating: ★★★★☆ (4.2/5)</p>
+        <div class="tag-list"><span class="tag">RPG</span><span class="tag">Indie</span><span class="tag">PC</span><span class="tag">Switch</span></div>
+        <p class="game-review">Minimal visuals with maximum emotional impact. Its combat subversion and soundtrack are still uniquely creative.</p>
+        <p class="rating">Rating: ★★★★★ (4.9/5)</p>
         <div class="link-row">
-          <a class="link-pill" href="https://itch.io/">itch</a>
-          <a class="link-pill" href="https://github.com/topics/game-development">GitHub</a>
+          <a class="link-pill" href="https://undertale.com/">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/app/391540/Undertale/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/undertale/">Metacritic</a>
+          <a class="link-pill" href="https://tobyfox.itch.io/undertale">itch</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="game-card">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2h3q.webp" alt="Final Fantasy VII Remake cover art"> -->
+      <div class="game-content">
+        <h4 class="game-name">Final Fantasy VII Remake</h4>
+        <p class="game-meta">Status: Recommended</p>
+        <div class="tag-list"><span class="tag">RPG</span><span class="tag">ACT</span><span class="tag">PC</span></div>
+        <p class="game-review">A bold reinterpretation with excellent character moments and elite action-RPG combat flow.</p>
+        <p class="rating">Rating: ★★★★★ (4.9/5)</p>
+        <div class="link-row">
+          <a class="link-pill" href="https://ffvii-remake-intergrade.square-enix-games.com/en-us/">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/">Metacritic</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="game-card">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7f4h.webp" alt="Dragon's Dogma 2 cover art"> -->
+      <div class="game-content">
+        <h4 class="game-name">Dragon's Dogma 2</h4>
+        <p class="game-meta">Status: Recommended</p>
+        <div class="tag-list"><span class="tag">RPG</span><span class="tag">ACT</span><span class="tag">PC</span></div>
+        <p class="game-review">A standout open-world action RPG with dynamic encounters and deeply expressive class identities.</p>
+        <p class="rating">Rating: ★★★★☆ (4.6/5)</p>
+        <div class="link-row">
+          <a class="link-pill" href="https://www.dragonsdogma.com/2/en-us/">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/app/2054970/Dragons_Dogma_2/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/dragons-dogma-2/">Metacritic</a>
+          <a class="link-pill" href="https://github.com/topics/dragons-dogma-2">GitHub</a>
         </div>
       </div>
     </article>
