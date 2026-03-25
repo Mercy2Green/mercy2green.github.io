@@ -12,7 +12,7 @@ title                    : "Runze Yu"
 title_separator          : "-"
 name                     : &name "Peter Yu"
 description              : &description "personal description"
-url                      : https://https://mercy2green.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mercy2green.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Mercy2Green/mercy2green.github.io.git"
 
