@@ -10,7 +10,7 @@ redirect_from:
 <div class="game-home">
   <div class="game-banner">
     <h2>Player One: Peter Yu</h2>
-    <p>A dark action-RPG focused corner of my personal site, centered on weighty combat, strong world-building, and story-driven adventures.</p>
+    <p>A RPG focused corner of my personal site, centered on weighty combat, strong world-building, and story-driven adventures.</p>
   </div>
 
   <h3 class="section-title">Personal Info</h3>
@@ -59,8 +59,6 @@ redirect_from:
         <p class="rating">Rating: ★★★★☆ (4.3/5)</p>
         <div class="link-row">
           <a class="link-pill" href="https://store.steampowered.com/app/2168680/Nuclear_Option/">Steam</a>
-          <a class="link-pill" href="https://metacritic.com/">Metacritic</a>
-          <a class="link-pill" href="https://itch.io/">itch</a>
         </div>
       </div>
     </article>
@@ -95,7 +93,7 @@ redirect_from:
         <div class="link-row">
           <a class="link-pill" href="https://www.ubisoft.com/en-us/game/assassins-creed/the-ezio-collection">Official</a>
           <a class="link-pill" href="https://store.steampowered.com/sub/75749/">Steam</a>
-          <a class="link-pill" href="https://www.metacritic.com/">Metacritic</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/assassins-creed-the-ezio-collection/">Metacritic</a>
         </div>
       </div>
     </article>
@@ -111,7 +109,7 @@ redirect_from:
         <div class="link-row">
           <a class="link-pill" href="https://www.thewitcher.com/">Official</a>
           <a class="link-pill" href="https://store.steampowered.com/sub/124923/">Steam</a>
-          <a class="link-pill" href="https://www.metacritic.com/">Metacritic</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/the-witcher-3-wild-hunt/">Metacritic</a>
         </div>
       </div>
     </article>
