@@ -15,13 +15,11 @@ redirect_from:
         <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9mxy.webp" alt="Gaming setup mood image"> -->
         <div class="game-content">
           <h4 class="game-name">Peter Yu</h4>
-          <p class="game-meta">Research by day, games by night. Main platform: PC. Preferred experience: action combat + narrative RPG progression.</p>
+          <p class="game-meta">Research by day, games by night. Main platform: PC. Preferred experience: any game that is a masterpiece.</p>
           <div class="tag-list">
             <span class="tag">RPG</span>
             <span class="tag">Story-rich</span>
             <span class="tag">Masterpiece</span>
-            <span class="tag">PC</span>
-            <span class="tag">Meta Quest</span>
           </div>
         </div>
       </article>
