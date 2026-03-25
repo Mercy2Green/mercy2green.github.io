@@ -16,7 +16,7 @@ redirect_from:
   <h3 class="section-title">Personal Info</h3>
   <div class="game-grid">
     <article class="game-card">
-      <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9mxy.webp" alt="Gaming setup mood image">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9mxy.webp" alt="Gaming setup mood image"> -->
       <div class="game-content">
         <h4 class="game-name">Peter Yu</h4>
         <p class="game-meta">Research by day, games by night. Main platform: PC + Switch.</p>
@@ -35,7 +35,7 @@ redirect_from:
   <h3 class="section-title">Recently Playing</h3>
   <div class="game-grid">
     <article class="game-card">
-      <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8f1g.webp" alt="Black Myth Wukong cover art">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8f1g.webp" alt="Black Myth Wukong cover art"> -->
       <div class="game-content">
         <h4 class="game-name">Black Myth: Wukong</h4>
         <p class="game-meta">Status: Recently Playing</p>
@@ -51,7 +51,7 @@ redirect_from:
     </article>
 
     <article class="game-card">
-      <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6f9j.webp" alt="Hades II cover art">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6f9j.webp" alt="Hades II cover art"> -->
       <div class="game-content">
         <h4 class="game-name">Hades II</h4>
         <p class="game-meta">Status: Recently Playing</p>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
 
     <article class="game-card">
-      <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6wpu.webp" alt="Balatro cover art">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6wpu.webp" alt="Balatro cover art"> -->
       <div class="game-content">
         <h4 class="game-name">Balatro</h4>
         <p class="game-meta">Status: Recently Playing</p>
@@ -87,7 +87,7 @@ redirect_from:
   <h3 class="section-title">Completed</h3>
   <div class="game-grid">
     <article class="game-card">
-      <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.webp" alt="Sekiro cover art">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.webp" alt="Sekiro cover art"> -->
       <div class="game-content">
         <h4 class="game-name">Sekiro: Shadows Die Twice</h4>
         <p class="game-meta">Status: Completed</p>
@@ -103,7 +103,7 @@ redirect_from:
     </article>
 
     <article class="game-card">
-      <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.webp" alt="Disco Elysium cover art">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.webp" alt="Disco Elysium cover art"> -->
       <div class="game-content">
         <h4 class="game-name">Disco Elysium</h4>
         <p class="game-meta">Status: Completed</p>
@@ -122,7 +122,7 @@ redirect_from:
   <h3 class="section-title">Highly Recommended</h3>
   <div class="game-grid">
     <article class="game-card">
-      <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2p2x.webp" alt="Baldur's Gate 3 cover art">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2p2x.webp" alt="Baldur's Gate 3 cover art"> -->
       <div class="game-content">
         <h4 class="game-name">Baldur's Gate 3</h4>
         <p class="game-meta">Status: Recommended</p>
@@ -138,7 +138,7 @@ redirect_from:
     </article>
 
     <article class="game-card">
-      <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.webp" alt="Hollow Knight cover art">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.webp" alt="Hollow Knight cover art"> -->
       <div class="game-content">
         <h4 class="game-name">Hollow Knight</h4>
         <p class="game-meta">Status: Recommended</p>
@@ -154,7 +154,7 @@ redirect_from:
     </article>
 
     <article class="game-card">
-      <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.webp" alt="Open source game tools cover art">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.webp" alt="Open source game tools cover art"> -->
       <div class="game-content">
         <h4 class="game-name">Open Source Game Tools</h4>
         <p class="game-meta">Status: Recommended</p>
