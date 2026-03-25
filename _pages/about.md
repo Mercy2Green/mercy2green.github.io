@@ -40,7 +40,7 @@ redirect_from:
         <p class="game-meta">Status: Recently Playing</p>
         <div class="tag-list"><span class="tag">RPG</span><span class="tag">ACT</span><span class="tag">PC</span></div>
         <p class="game-review">Hybrid real-time and command combat feels strategic and stylish. Character writing and soundtrack are top-tier.</p>
-        <p class="rating">Rating: ★★★★★ (4.9/5)</p>
+        <p class="rating">Rating: ★★★★★ (5/5)</p>
         <div class="link-row">
           <a class="link-pill" href="https://ffvii-remake-intergrade.square-enix-games.com/en-us/">Official</a>
           <a class="link-pill" href="https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/">Steam</a>
@@ -56,7 +56,7 @@ redirect_from:
         <p class="game-meta">Status: Recently Playing</p>
         <div class="tag-list"><span class="tag">ACT</span><span class="tag">Indie</span><span class="tag">PC</span></div>
         <p class="game-review">Arcade-style flight combat with modern controls and strong mission pacing. Easy to pick up, hard to optimize.</p>
-        <p class="rating">Rating: ★★★★☆ (4.3/5)</p>
+        <p class="rating">Rating: ★★★★★ (5/5)</p>
         <div class="link-row">
           <a class="link-pill" href="https://store.steampowered.com/app/2168680/Nuclear_Option/">Steam</a>
         </div>
@@ -70,7 +70,7 @@ redirect_from:
         <p class="game-meta">Status: Recently Playing</p>
         <div class="tag-list"><span class="tag">RPG</span><span class="tag">ACT</span><span class="tag">PC</span></div>
         <p class="game-review">Emergent encounters, excellent class fantasy, and satisfying monster climbing combat make each journey memorable.</p>
-        <p class="rating">Rating: ★★★★☆ (4.6/5)</p>
+        <p class="rating">Rating: ★★★★★ (5/5)</p>
         <div class="link-row">
           <a class="link-pill" href="https://www.dragonsdogma.com/2/en-us/">Official</a>
           <a class="link-pill" href="https://store.steampowered.com/app/2054970/Dragons_Dogma_2/">Steam</a>
