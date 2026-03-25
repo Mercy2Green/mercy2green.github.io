@@ -18,10 +18,10 @@ redirect_from:
           <p class="game-meta">Research by day, games by night. Main platform: PC. Preferred experience: action combat + narrative RPG progression.</p>
           <div class="tag-list">
             <span class="tag">RPG</span>
-            <span class="tag">ACT</span>
-            <span class="tag">Roguelike</span>
-            <span class="tag">Indie</span>
+            <span class="tag">Story-rich</span>
+            <span class="tag">Masterpiece</span>
             <span class="tag">PC</span>
+            <span class="tag">Meta Quest</span>
           </div>
         </div>
       </article>
@@ -35,7 +35,7 @@ redirect_from:
       <div class="game-content">
         <h4 class="game-name">Final Fantasy VII Remake</h4>
         <p class="game-meta">Status: Recently Playing</p>
-        <div class="tag-list"><span class="tag">RPG</span><span class="tag">ACT</span><span class="tag">PC</span></div>
+        <div class="tag-list"><span class="tag">RPG</span><span class="tag">Story-rich</span><span class="tag">PC</span></div>
         <p class="game-review">Hybrid real-time and command combat feels strategic and stylish. Character writing and soundtrack are top-tier.</p>
         <p class="rating">Rating: ★★★★★ (5/5)</p>
         <div class="link-row">
