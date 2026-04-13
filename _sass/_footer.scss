@@ -58,6 +58,32 @@
   font-size: $type-size-7;
 }
 
+.page__footer-visits {
+  margin: 0.35em 0 0.65em;
+  font-family: $global-font-family;
+  font-size: $type-size-7;
+
+  #busuanzi_container_site_pv,
+  #busuanzi_container_site_uv {
+    display: inline-block;
+  }
+
+  .page__footer-visits-separator {
+    margin: 0 0.5em;
+  }
+
+  @media (max-width: 600px) {
+    #busuanzi_container_site_pv,
+    #busuanzi_container_site_uv {
+      display: block;
+    }
+
+    .page__footer-visits-separator {
+      display: none;
+    }
+  }
+}
+
 .page__footer-follow {
   ul {
     margin: 0;

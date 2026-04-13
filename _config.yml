@@ -140,6 +140,10 @@ analytics:
   google:
     tracking_id          :
 
+visitor_counter:
+  enabled                : true
+  provider               : "busuanzi"
+
 
 # Reading Files
 include:
