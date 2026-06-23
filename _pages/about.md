@@ -74,6 +74,38 @@ redirect_from:
         </div>
       </div>
     </article>
+
+    <article class="game-card">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co74nm.webp" alt="Persona 5 Royal cover art"> -->
+      <div class="game-content">
+        <h4 class="game-name">Persona 5 Royal</h4>
+        <p class="game-meta">Status: Recently Playing</p>
+        <div class="tag-list"><span class="tag">JRPG</span><span class="tag">Turn-based</span><span class="tag">Story-rich</span><span class="tag">PC</span></div>
+        <p class="game-review">A flawless experience with unparalleled immersion. The story gradually inspires genuine awe toward the weight of each choice, and its themes are deeply rewarding for personal growth and self-discovery — a game that makes you reflect on who you are.</p>
+        <p class="rating">Rating: ★★★★★ (5/5)</p>
+        <div class="link-row">
+          <a class="link-pill" href="https://persona.atlus.com/p5r/">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/app/1687950/Persona_5_Royal/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/persona-5-royal/">Metacritic</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="game-card">
+      <!-- <img class="game-cover" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8tcr.webp" alt="Final Fantasy VII Rebirth cover art"> -->
+      <div class="game-content">
+        <h4 class="game-name">Final Fantasy VII Rebirth</h4>
+        <p class="game-meta">Status: Recently Playing</p>
+        <div class="tag-list"><span class="tag">RPG</span><span class="tag">Story-rich</span><span class="tag">Masterpiece</span><span class="tag">PC</span></div>
+        <p class="game-review">A true masterpiece and work of art — like a painting or a sculptural magnum opus that commands reverence for the craft behind it. Both the gameplay and narrative are exquisitely polished, leaving you in awe of what the creators have achieved.</p>
+        <p class="rating">Rating: ★★★★★ (5/5)</p>
+        <div class="link-row">
+          <a class="link-pill" href="https://ffvii.square-enix-games.com/en-us/games/rebirth">Official</a>
+          <a class="link-pill" href="https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/">Steam</a>
+          <a class="link-pill" href="https://www.metacritic.com/game/final-fantasy-vii-rebirth/">Metacritic</a>
+        </div>
+      </div>
+    </article>
   </div>
 
   <h3 class="section-title">Highly Recommended</h3>
@@ -199,7 +231,9 @@ redirect_from:
     <li class="played-item">Assassin's Creed Odyssey</li>
     <li class="played-item">Yakuza 0</li>
     <li class="played-item">Lies of P</li>
+    <li class="played-item">Final Fantasy VII Rebirth</li>
     <li class="played-item">Final Fantasy VII Remake</li>
+    <li class="played-item">Persona 5 Royal</li>
     <li class="played-item">Control</li>
     <li class="played-item">Death Stranding</li>
     <li class="played-item">Titanfall 2</li>
